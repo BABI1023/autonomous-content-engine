@@ -1,10 +1,10 @@
-# ⚡ Autonomous Social Media Content Engine
+#  Autonomous Social Media Content Engine
 
 > Transform raw news links into structured, high-signal LinkedIn insights in under 120 seconds using n8n and Google Gemini.
 
 ---
 
-## 📌 Workflow Architecture
+##  Workflow Architecture
 
 ![n8n Canvas Workflow](workflow.canvas.jpg)
 
@@ -17,7 +17,7 @@ This repository hosts an event-driven n8n workflow that automates content resear
 
 ---
 
-## 🚀 Quick Start & Import Instructions
+## Quick Start & Import Instructions
 
 ### Prerequisites
 * A running **n8n** instance
@@ -33,7 +33,7 @@ This repository hosts an event-driven n8n workflow that automates content resear
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 | Metric | Manual Process | Autonomous Engine |
 | :--- | :--- | :--- |
@@ -43,5 +43,5 @@ This repository hosts an event-driven n8n workflow that automates content resear
 
 ---
 
-## 📜 License
+##  License
 Distributed under the MIT License.
