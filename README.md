@@ -7,9 +7,6 @@
 
 ---
 
-## 📌 Workflow Architecture
-
-![n8n Canvas Workflow](workflow-canvas.jpg)
 
 This repository hosts an event-driven n8n workflow that automates content research and multi-channel publishing:
 
